@@ -7,3 +7,7 @@ I have put Markdown to use in index.md
 ``` C++
 std::cout << "Hello World!";
 ```
+
+- [x] Initiate Markdown Tutorial
+- [x] Create checklist
+- [ ] Complete Markdown Tutorial
